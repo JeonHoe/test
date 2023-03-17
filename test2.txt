@@ -1,0 +1,8 @@
+team : Lions
+
+maneger: Mary
+
+members:
+- Thomas
+- Karen
+- Margaret
